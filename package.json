@@ -1,0 +1,26 @@
+{
+  "name": "stairs",
+  "version": "1.0.0",
+  "description": "stairs css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dren98/stairs.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Dren Sylejmani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dren98/stairs/issues"
+  },
+  "homepage": "https://github.com/dren98/stairs#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
